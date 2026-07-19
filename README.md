@@ -186,6 +186,7 @@ Designer, developer, maker, and engineering-focused creator working on CAD, auto
 * [University of Bonn / myScience – Ideas with Passion and Entrepreneurial Spirit](https://www.myscience.de/en/news/wire/ideas_with_passion_and_entrepreneurial_spirit-2025-uni-bonn)
 * [La Feltrinelli – Ergebnis-Automation für die Bundesliga](https://www.lafeltrinelli.it/ergebnis-automation-fur-die-bundesliga-libro-inglese-amir-mobasheraghdam-ladan-seddighi/e/9783695724925)
 * https://www.linkedin.com/posts/amirmobasher_python-opencv-computervision-activity-7464584127930036225-ueH2?utm_source=share&utm_medium=member_desktop&rcm=ACoAAA7tqwMBdIETigYQYzFJUPJd118UwwaoL_k
+* https://www.linkedin.com/posts/amirmobasher_machinelearning-computervision-industrie40-activity-7441484602067546112-02TJ?utm_source=share&utm_medium=member_desktop&rcm=ACoAAA7tqwMBdIETigYQYzFJUPJd118UwwaoL_k
 ---
 
 ## License
