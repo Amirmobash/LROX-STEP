@@ -1,5 +1,13 @@
 # LROX-STEP – Sensor STEP File Library
 
+
+<p align="center">
+  <img src="docs/images/lrox-sensor-step-cad-model-library.svg" alt="Sensor STEP CAD model reference illustrations for mounting and enclosure integration" width="960" />
+</p>
+
+<sub>Illustrative engineering overview (not a photograph, measured CAD rendering, or independently verified build).</sub>
+
+
 A collection of **3D CAD STEP files for sensor-related projects**, mechanical design, enclosure development, mounting systems, prototyping, and engineering integration.
 
 This repository was created to provide useful sensor models that can be imported into common CAD software and used during the design of machines, automation systems, smart-home projects, electronic enclosures, and custom mounting solutions.
